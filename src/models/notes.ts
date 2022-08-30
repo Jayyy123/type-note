@@ -1,6 +1,6 @@
 import { Column, DataType, Model, Table } from "sequelize-typescript";
 
-
+//  Notes model class definition.
 @Table({
     tableName: "note",
     timestamps: false
