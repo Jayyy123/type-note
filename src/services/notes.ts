@@ -11,5 +11,4 @@ const connection = new Sequelize({
     username: "root"
 })
 
-
 export default connection;
